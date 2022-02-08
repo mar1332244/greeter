@@ -1,0 +1,20 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "discord bot to greet new server members",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mar1332244/greeter"
+  },
+  "keywords": [
+    "i",
+    "forgor",
+    "*skull*"
+  ],
+  "author": "mar1332244",
+  "license": "ISC"
+}
